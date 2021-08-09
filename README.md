@@ -5,7 +5,7 @@ Demonstrates implementation of encapsulation, abstraction, inheritance and polym
 ## Main Achievements
 - Working with Objects and Classes (using Graphical User Interface).<br/>
 - Implementing collision detection and sprites interfaces.<br/>
-- Creating a game loop (seperating game logic loop from GUI animation using composition).<br/>
+- Creating a game loop (separating game logic loop from GUI animation using composition).<br/>
 - Reading user input using KeyboardSensor.<br/>
 - Implementing Observer pattern.<br/>
 &emsp; Decoupling the collision mechanism from collision notification.<br/>
